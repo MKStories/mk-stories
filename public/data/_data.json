@@ -1,6 +1,54 @@
 {
-  "date": 1661097871457,
+  "date": 1661121538965,
   "stories": [
+    {
+      "id": "62b45cf01903250039cd6a36",
+      "name": "Après la fin",
+      "description": "Jeu créé pour la jam Nouvim 3000 de 2022, le thème étant : Inscenescence.\nVous incarnez un être qui se réveille dans une salle blanche après que les êtres humains aient disparu. Vous partez à leur recherche, vous avez l'éternité en 3000 mots.\n",
+      "author": "leo-tranlin",
+      "lang": "fr",
+      "version": 3,
+      "duration": 443.406,
+      "tags": [
+        "science-fiction",
+        "fin du monde"
+      ],
+      "creationDate": "2022-06-08T07:50:42.973Z",
+      "modificationDate": "2022-06-23T12:20:51.644Z",
+      "publishDate": null,
+      "fileName": "apres-la-fin"
+    },
+    {
+      "id": "60c24be7b70c43003986f256",
+      "name": "Coup d'blouse",
+      "description": "Dans la peau du célèbre détective Bertrand Dagot - Dagobert pour les intimes -, tu vas enquêter sur une disparition inquiétante.",
+      "author": "patoune",
+      "lang": "fr",
+      "version": 3,
+      "duration": 687.822,
+      "tags": [
+        "polar",
+        "humour"
+      ],
+      "creationDate": "2020-05-25T17:21:14.402Z",
+      "modificationDate": "2020-10-15T05:14:35.437Z",
+      "publishDate": "2020-07-02T08:59:02.674Z",
+      "fileName": "coup-dblouse"
+    },
+    {
+      "id": "616880aa3b4420003920bd91",
+      "name": "Donjons et rongeurs",
+      "description": "Embarquez dans une grande aventure digne des plus grands RPG isométriques !",
+      "author": "binbin",
+      "lang": "fr",
+      "version": 3,
+      "duration": 1232.2640000000001,
+      "tags": [],
+      "creationDate": "2021-03-19T20:18:04.571Z",
+      "modificationDate": "2021-10-14T15:37:14.344Z",
+      "publishDate": null,
+      "fileName": "donjons-et-rongeurs"
+    },
     {
       "id": "60c0eb476497290039e7ceca",
       "name": "En Quête du Dragon",
@@ -17,6 +65,59 @@
       "modificationDate": "2021-03-30T14:00:24.358Z",
       "publishDate": "2021-04-01T10:14:39.293Z",
       "fileName": "en-quete-du-dragon"
+    },
+    {
+      "id": "625e97e2d1bee00039a8fce9",
+      "name": "Equinoxe de printemps",
+      "description": "Tu es dans un village d'enchanteurs et d'enchanteresses.\nAujourd'hui est un grand jour, tu vas acquérir tes pouvoirs magiques....\nA moins que...",
+      "author": "pauline-gg",
+      "lang": "fr",
+      "version": 3,
+      "duration": 298.686,
+      "tags": [
+        "fantaisy",
+        "jeunesse"
+      ],
+      "creationDate": "2021-11-11T07:10:59.239Z",
+      "modificationDate": "2022-04-09T08:32:36.517Z",
+      "publishDate": null,
+      "fileName": "equinoxe-de-printemps"
+    },
+    {
+      "id": "6175b4fb3b44200039240485",
+      "name": "Ibrâhîm et l'oeil d'Horus",
+      "description": "Juin 1523. Vous êtes Ibrâhîm Pacha, le nouveau Grand Vizir de l'Empire Ottoman et vous allez faire face à votre première épreuve : une révolte dans la province d'Egypte, là où les anciens dieux ne dorment que d'un œil.",
+      "author": "chroniqueur-de-la-tour",
+      "lang": "fr",
+      "version": 3,
+      "duration": 1519.5600000000002,
+      "tags": [
+        "fantasy",
+        "histoire",
+        "egypte",
+        "ottoman"
+      ],
+      "creationDate": "2021-10-13T09:06:45.483Z",
+      "modificationDate": "2021-10-27T19:10:09.840Z",
+      "publishDate": null,
+      "fileName": "ibrahim-et-loeil-d-horus"
+    },
+    {
+      "id": "60dda06e955e9e00397b3f7f",
+      "name": "John MacSmith et les Bandits Manchots",
+      "description": "Es-tu prêt pour une chevauchée épique en plein Far Ouest, cowboy ?",
+      "author": "kaelhem",
+      "lang": "fr",
+      "version": 3,
+      "duration": 464.98,
+      "tags": [
+        "far west",
+        "cowboy"
+      ],
+      "creationDate": "2021-06-10T07:44:04.795Z",
+      "modificationDate": "2021-07-01T13:01:23.466Z",
+      "publishDate": null,
+      "fileName": "john-mac-smith-et-les-bandits-manchots"
     },
     {
       "id": "60c0e9b46497290039e7cd83",
@@ -104,6 +205,58 @@
       "fileName": "le-grand-saut"
     },
     {
+      "id": "62ad92581903250039c3e7c0",
+      "name": "Le Miroir",
+      "description": "Vous vous tenez devant le Miroir.\nQuelque chose se joue entre le reflet et vous... Mais quoi ?",
+      "author": "lilie",
+      "lang": "fr",
+      "version": 3,
+      "duration": 292.656,
+      "tags": [
+        "atmosphère",
+        "fantasy",
+        "fantastique",
+        "dark"
+      ],
+      "creationDate": "2022-04-21T19:56:15.153Z",
+      "modificationDate": "2022-06-18T08:42:25.180Z",
+      "publishDate": null,
+      "fileName": "le-miroir"
+    },
+    {
+      "id": "61feb9f2ce207a003943b979",
+      "name": "Le mystère  du Lego vert",
+      "description": "Qui a fait disparaître le Lego vert ?\n",
+      "author": "patoune",
+      "lang": "fr",
+      "version": 3,
+      "duration": 976.19,
+      "tags": [],
+      "creationDate": "2022-02-05T16:14:14.856Z",
+      "modificationDate": "2022-02-05T16:39:42.746Z",
+      "publishDate": null,
+      "fileName": "le-mystere-du-lego-vert"
+    },
+    {
+      "id": "60c494cd7e3c4f0039d1415d",
+      "name": "Le Nouveau Jeu - Les Chroniques d'OPERA",
+      "description": "En 2060, Martynn et Billiam se retrouvent pour essayer le nouveau jeu d’OPERA GAME: “New-Sky II”. Si Billiam n’attend que de découvrir cette nouveauté, Martynn lui, préférerait faire une bonne vieille partie de Néo-Amiga.",
+      "author": "gavroche-games",
+      "lang": "fr",
+      "version": 3,
+      "duration": 463.37199999999996,
+      "tags": [
+        "jeux vidéo",
+        "concours",
+        "les chroniques d'opera",
+        "science-fiction"
+      ],
+      "creationDate": "2021-02-15T13:40:34.524Z",
+      "modificationDate": "2022-07-27T22:22:19.277Z",
+      "publishDate": null,
+      "fileName": "le-nouveau-jeu-les-chroniques-d-opera"
+    },
+    {
       "id": "60c0ed756497290039e7d06c",
       "name": "Le trésor de l'espace",
       "description": "Une aventure interplanétaire, vers l'infini et l'au-delà !",
@@ -136,6 +289,97 @@
       "modificationDate": "2020-12-23T21:59:56.182Z",
       "publishDate": "2020-04-21T00:00:00.000Z",
       "fileName": "lentrainement"
+    },
+    {
+      "id": "62c08173af3bbf00389f223c",
+      "name": "L'île des morts",
+      "description": "Qu'il y a-t-il après la mort ? Vous vous réveillez en enfer, un mystérieux squelette vous guide jusqu'à votre destin.",
+      "author": "gavroche-games",
+      "lang": "fr",
+      "version": 3,
+      "duration": 542.1640000000001,
+      "tags": [
+        "ambiance",
+        "horreur psychologique",
+        "philosophie",
+        "court"
+      ],
+      "creationDate": "2022-04-13T17:03:59.202Z",
+      "modificationDate": "2022-07-27T22:18:59.144Z",
+      "publishDate": null,
+      "fileName": "lile-des-morts"
+    },
+    {
+      "id": "60c1a5e96497290039e7d4ed",
+      "name": "Ong-Baker",
+      "description": "Les confitures de votre grand-mère méritent les meilleurs pains… Et les agresseurs de votre boulanger aussi !",
+      "author": "narkhos",
+      "lang": "fr",
+      "version": 3,
+      "duration": 423.038,
+      "tags": [],
+      "creationDate": "2021-02-03T21:29:08.466Z",
+      "modificationDate": "2021-06-12T11:54:37.760Z",
+      "publishDate": null,
+      "fileName": "ong-baker"
+    },
+    {
+      "id": "60c493ce7e3c4f0039d13c45",
+      "name": "Poussière d'Asphalte - Les Chroniques d'OPERA",
+      "description": "Un androïde se remet en marche après ce qui semble être des millénaires. Autour de lui tout semble abandonné et en ruine. \nHeureusement, SALVA, une IA guide pour droïde vient l'aider. Leurs buts: survivre et trouver des humains. Il y a toujours des humains...",
+      "author": "gavroche-games",
+      "lang": "fr",
+      "version": 3,
+      "duration": 2128.322,
+      "tags": [
+        "robot",
+        "androïde",
+        "philosophie",
+        "poésie",
+        "long",
+        "anti-one-true-path"
+      ],
+      "creationDate": "2021-01-04T11:44:40.321Z",
+      "modificationDate": "2022-07-27T22:23:11.993Z",
+      "publishDate": "2021-01-31T18:07:03.955Z",
+      "fileName": "poussiere-d-asphalte-les-chroniques-d-opera"
+    },
+    {
+      "id": "60c21719b70c43003986f11a",
+      "name": "Sortir de la mine",
+      "description": "Vous êtes coincé au fond d'une mine et votre objectif est d'en sortir #concours Sous terre/ Sous mer",
+      "author": "leo-tranlin",
+      "lang": "fr",
+      "version": 3,
+      "duration": 260.36199999999997,
+      "tags": [
+        "escape",
+        "frissons"
+      ],
+      "creationDate": "2020-08-17T07:18:45.169Z",
+      "modificationDate": "2020-09-24T13:20:46.840Z",
+      "publishDate": null,
+      "fileName": "sortir-de-la-mine"
+    },
+    {
+      "id": "62b373e51903250039cccabb",
+      "name": "Une enquête de Maître Renart",
+      "description": "Un chapitre méconnu du Roman de Renart... dont VOUS êtes le Goupil !",
+      "author": "franchiver",
+      "lang": "fr",
+      "version": 3,
+      "duration": 2485.5660000000003,
+      "tags": [
+        "royaume",
+        "animal",
+        "conte",
+        "ruse",
+        "enquête"
+      ],
+      "creationDate": "2022-05-07T21:26:03.820Z",
+      "modificationDate": "2022-07-20T12:37:45.480Z",
+      "publishDate": null,
+      "fileName": "une-enquete-de-maitre-renart"
     },
     {
       "id": "60c0e7036497290039e7caf1",
