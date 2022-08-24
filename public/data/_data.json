@@ -1,5 +1,5 @@
 {
-  "date": 1661257406941,
+  "date": 1661326264902,
   "stories": [
     {
       "id": "62b45cf01903250039cd6a36",
@@ -38,7 +38,9 @@
           "buttonText": "rgba(0, 0, 0, 1)",
           "assetsBackground": "rgba(255, 255, 255, 1)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/62b45cf01903250039cd6a36.css",
+        "fontPath": "fonts/62b45cf01903250039cd6a36.woff2"
       },
       "fileName": "apres-la-fin"
     },
@@ -82,7 +84,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(21, 79, 107, 0.27)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/60c24be7b70c43003986f256.css",
+        "fontPath": "fonts/60c24be7b70c43003986f256.woff2"
       },
       "fileName": "coup-dblouse"
     },
@@ -127,7 +131,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(82, 107, 21, 0)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/616880aa3b4420003920bd91.css",
+        "fontPath": "fonts/616880aa3b4420003920bd91.woff2"
       },
       "fileName": "donjons-et-rongeurs"
     },
@@ -168,7 +174,9 @@
           "buttonText": "rgba(59, 58, 58, 1)",
           "assetsBackground": "rgba(136, 192, 121, 1)",
           "assetsFill": "rgba(36, 63, 7, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0eb476497290039e7ceca.css",
+        "fontPath": "fonts/60c0eb476497290039e7ceca.woff2"
       },
       "fileName": "en-quete-du-dragon"
     },
@@ -209,7 +217,9 @@
           "buttonText": "rgba(0, 0, 0, 1)",
           "assetsBackground": "rgba(184, 233, 134, 1)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/625e97e2d1bee00039a8fce9.css",
+        "fontPath": "fonts/625e97e2d1bee00039a8fce9.woff2"
       },
       "fileName": "equinoxe-de-printemps"
     },
@@ -289,7 +299,9 @@
           "buttonText": "rgba(248, 231, 28, 1)",
           "assetsBackground": "rgba(245, 166, 35, 0.42)",
           "assetsFill": "rgba(95, 51, 12, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60dda06e955e9e00397b3f7f.css",
+        "fontPath": "fonts/60dda06e955e9e00397b3f7f.woff2"
       },
       "fileName": "john-mac-smith-et-les-bandits-manchots"
     },
@@ -333,7 +345,9 @@
           "buttonText": "rgba(255, 255, 255, 0.52)",
           "assetsBackground": "rgba(102, 168, 30, 0.47)",
           "assetsFill": "rgba(0, 0, 0, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0e9b46497290039e7cd83.css",
+        "fontPath": "fonts/60c0e9b46497290039e7cd83.woff2"
       },
       "fileName": "la-balade-en-foret"
     },
@@ -381,7 +395,9 @@
           "buttonText": "rgba(255, 255, 255, 1)",
           "assetsBackground": "rgba(87, 126, 48, 0)",
           "assetsFill": "rgba(34, 71, 0, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0ead76497290039e7ce3f.css",
+        "fontPath": "fonts/60c0ead76497290039e7ce3f.woff2"
       },
       "fileName": "labime"
     },
@@ -428,7 +444,9 @@
           "buttonBackground": "rgba(255, 255, 255, 0.18)",
           "assetsBackground": "rgba(93, 93, 93, 0.3)",
           "assetsFill": "rgba(255, 255, 255, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0e5f56497290039e7ca3d.css",
+        "fontPath": "fonts/60c0e5f56497290039e7ca3d.woff2"
       },
       "fileName": "le-cadeau"
     },
@@ -477,7 +495,9 @@
           "buttonBackground": "rgba(255, 255, 255, 0.18)",
           "assetsBackground": "rgba(65, 117, 5, 1)",
           "assetsFill": "rgba(184, 233, 134, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0ebcf6497290039e7cf9f.css",
+        "fontPath": "fonts/60c0ebcf6497290039e7cf9f.woff2"
       },
       "fileName": "le-dino-park"
     },
@@ -524,7 +544,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(255, 255, 255, 0.45)",
           "assetsFill": "rgba(69, 112, 163, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0e7546497290039e7cba0.css",
+        "fontPath": "fonts/60c0e7546497290039e7cba0.woff2"
       },
       "fileName": "le-grand-saut"
     },
@@ -574,7 +596,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(67, 50, 83, 1)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/62ad92581903250039c3e7c0.css",
+        "fontPath": "fonts/62ad92581903250039c3e7c0.woff2"
       },
       "fileName": "le-miroir"
     },
@@ -615,7 +639,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(21, 79, 107, 0.27)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/61feb9f2ce207a003943b979.css",
+        "fontPath": "fonts/61feb9f2ce207a003943b979.woff2"
       },
       "fileName": "le-mystere-du-lego-vert"
     },
@@ -666,7 +692,9 @@
           "buttonText": "rgba(219, 242, 252, 1)",
           "assetsBackground": "rgba(0, 0, 0, 1)",
           "assetsFill": "rgba(0, 0, 0, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c494cd7e3c4f0039d1415d.css",
+        "fontPath": "fonts/60c494cd7e3c4f0039d1415d.woff2"
       },
       "fileName": "le-nouveau-jeu-les-chroniques-d-opera"
     },
@@ -711,7 +739,9 @@
           "buttonText": "rgba(31, 193, 255, 1)",
           "assetsBackground": "rgba(21, 79, 107, 0.27)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/60c0ed756497290039e7d06c.css",
+        "fontPath": "fonts/60c0ed756497290039e7d06c.woff2"
       },
       "fileName": "le-tresor-de-lespace"
     },
@@ -759,7 +789,9 @@
           "buttonText": "rgba(146, 206, 81, 1)",
           "assetsBackground": "rgba(65, 117, 5, 1)",
           "assetsFill": "rgba(184, 233, 134, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0e8ff6497290039e7cc76.css",
+        "fontPath": "fonts/60c0e8ff6497290039e7cc76.woff2"
       },
       "fileName": "lentrainement"
     },
@@ -808,7 +840,9 @@
           "buttonText": "#ffffff",
           "assetsBackground": "rgba(13, 43, 69, 1)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/62c08173af3bbf00389f223c.css",
+        "fontPath": "fonts/62c08173af3bbf00389f223c.woff2"
       },
       "fileName": "lile-des-morts"
     },
@@ -854,7 +888,9 @@
           "buttonText": "rgba(255, 255, 255, 1)",
           "assetsBackground": "rgba(13, 4, 5, 1)",
           "assetsFill": "rgba(254, 208, 24, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c1a5e96497290039e7d4ed.css",
+        "fontPath": "fonts/60c1a5e96497290039e7d4ed.woff2"
       },
       "fileName": "ong-baker"
     },
@@ -907,7 +943,9 @@
           "buttonText": "rgba(241, 150, 1, 0.61)",
           "assetsBackground": "rgba(2, 0, 8, 1)",
           "assetsFill": "rgba(255, 255, 255, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c493ce7e3c4f0039d13c45.css",
+        "fontPath": "fonts/60c493ce7e3c4f0039d13c45.woff2"
       },
       "fileName": "poussiere-d-asphalte-les-chroniques-d-opera"
     },
@@ -955,7 +993,9 @@
           "buttonText": "rgba(5, 5, 5, 1)",
           "assetsBackground": "rgba(0, 0, 0, 0.95)",
           "assetsFill": "rgba(119, 206, 16, 1)"
-        }
+        },
+        "stylesheetPath": "fonts/60c21719b70c43003986f11a.css",
+        "fontPath": "fonts/60c21719b70c43003986f11a.woff2"
       },
       "fileName": "sortir-de-la-mine"
     },
@@ -999,7 +1039,9 @@
           "buttonText": "rgba(173, 79, 9, 1)",
           "assetsBackground": "rgba(21, 79, 107, 0.27)",
           "assetsFill": "#ffffff"
-        }
+        },
+        "stylesheetPath": "fonts/62b373e51903250039cccabb.css",
+        "fontPath": "fonts/62b373e51903250039cccabb.woff2"
       },
       "fileName": "une-enquete-de-maitre-renart"
     },
@@ -1043,7 +1085,9 @@
           "buttonText": "rgba(188, 149, 230, 1)",
           "assetsBackground": "rgba(166, 109, 218, 1)",
           "assetsFill": "rgba(83, 11, 146, 0.74)"
-        }
+        },
+        "stylesheetPath": "fonts/60c0e7036497290039e7caf1.css",
+        "fontPath": "fonts/60c0e7036497290039e7caf1.woff2"
       },
       "fileName": "une-vraie-journee-de-merde"
     }
